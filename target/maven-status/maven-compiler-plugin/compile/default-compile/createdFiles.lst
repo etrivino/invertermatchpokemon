@@ -1,0 +1,15 @@
+com\proyectopokemon\logicapokemon\analistadetorneopokemon\IAnalistaTorneo.class
+com\proyectopokemon\logicapokemon\accesoadatos\manejadorespersistencia\FabricaDeManejadores.class
+com\proyectopokemon\logicapokemon\accesoadatos\IGestorPokeinfo.class
+com\proyectopokemon\logicapokemon\clasespokemon\TorneoPokemon.class
+com\proyectopokemon\logicapokemon\clasespokemon\ComparadorPokemonNombre.class
+com\proyectopokemon\logicapokemon\accesoadatos\GestorPokeinfo.class
+com\proyectopokemon\javaaplication\ProyectoPokemon.class
+com\proyectopokemon\logicapokemon\accesoadatos\manejadorespersistencia\IManejadorDatos.class
+com\proyectopokemon\logicapokemon\clasespokemon\Pokemon.class
+com\proyectopokemon\logicapokemon\accesoadatos\manejadorespersistencia\FabricaDeManejadores$1.class
+com\proyectopokemon\logicapokemon\accesoadatos\manejadorespersistencia\TipoDeManejador.class
+com\proyectopokemon\logicapokemon\analistadetorneopokemon\AnalistaGeneral.class
+com\proyectopokemon\controlador\ControladorBean$1.class
+com\proyectopokemon\logicapokemon\accesoadatos\manejadorespersistencia\ManejadorMySql.class
+com\proyectopokemon\controlador\ControladorBean.class
